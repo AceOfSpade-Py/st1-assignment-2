@@ -18,3 +18,9 @@ def book_appointment(patient_name, practitioner_name, appointment_time):
 #     "Dr. John Doe",
 #     "2024-07-20 10:00 AM"
 # this is the AI Version
+
+
+# git status
+# git add .
+# git commit -m "Message"
+# git push
