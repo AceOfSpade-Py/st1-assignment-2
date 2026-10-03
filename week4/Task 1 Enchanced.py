@@ -24,3 +24,4 @@ def book_appointment(patient_name, practitioner_name, appointment_time):
 # git add .
 # git commit -m "Message"
 # git push
+# nothing working bruh?
